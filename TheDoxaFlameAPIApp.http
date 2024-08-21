@@ -1,0 +1,6 @@
+@TheDoxaFlameAPIApp_HostAddress = http://localhost:5261
+
+GET {{TheDoxaFlameAPIApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
